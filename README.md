@@ -1,5 +1,5 @@
 # Zenatix-Assignment
-Test assignment for zenatix
+
 STEPS FOR STARTING THE APP-
 1.) Download the project From git
 2.) After Downloading go to ZENATIX.zanatix folder and open cmd there
