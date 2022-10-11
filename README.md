@@ -1,4 +1,4 @@
-# Zenatix-Assignment
+# Inventry Management Project
 
 STEPS FOR STARTING THE APP-
 1.) Download the project From git
